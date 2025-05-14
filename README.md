@@ -22,7 +22,7 @@ This bot is perfect for:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/tg-ds-webhook-sender.git
+   git clone https://github.com/t3rmynal/telegram-to-discord-bot.git
    ```
    
 2. Install the required dependencies:
